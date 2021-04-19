@@ -8,3 +8,5 @@ h = eval(input("Enter triangle's height: "))
 b = eval(input("Enter triangle's base: "))
 
 Area = (b*h)/2
+
+print(Area)
